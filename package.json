@@ -1,0 +1,8 @@
+{
+  "name": "BugBot",
+  "version": "1.0.0",
+  "description": "This is BugBot.",
+  "main": "bot.js",
+  "author": "Spacebug300",
+  "dependencies": {}
+}
